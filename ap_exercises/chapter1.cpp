@@ -89,6 +89,7 @@ int femte()
 
 
 //1.6
+/*Takes in five int speed observations and finds double average*/
 
 double sjette()
 {
@@ -108,15 +109,12 @@ double sjette()
     return(0);
 }
 
-
-//1.7
-
 int main()
 {
     //første();
     //tredje();
     //fjerde();
     //femte();
-    sjette();
+    //sjette();
     return(0);
 }
